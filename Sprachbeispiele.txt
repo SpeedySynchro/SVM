@@ -1,0 +1,19 @@
+Alle Sätze 2 mal um Muster zu erkennen.
+
+1: „Hallo, mein Name ist [dein Name] und ich bin hier, um meine Stimme zu trainieren.“
+2: „Heute ist ein schöner Tag, um an einem neuen Projekt zu arbeiten.“
+3: „Der schnelle braune Fuchs springt über den faulen Hund.“
+4: „Wie spät ist es gerade?“
+5: „Kannst du mir den Weg zum Bahnhof erklären?“
+6: „Was ist deine Lieblingsfarbe?“
+7: „Ich habe gestern drei Bücher gekauft.“
+8: „Das Meeting beginnt um zehn Uhr dreißig.“
+9: „Die Zahlen eins, zwei, drei und vier sind wichtig.“
+10: „Ich habe heute Morgen Kaffee getrunken, bevor ich zur Arbeit gegangen bin.“
+11: „Obwohl es draußen regnet, habe ich beschlossen, einen Spaziergang zu machen.“
+12: „Wenn du Zeit hast, könnten wir später zusammen Abendessen kochen.“
+13(betont): „Ich kann es kaum erwarten, dass das Wochenende kommt!“
+14(betont): „Das ist unglaublich!“
+15(betont): „Warum hast du das getan?“
+16(schnell): „Ich spreche jetzt sehr schnell, um zu sehen, wie das Modell reagiert.“
+17(langsam): „Dieser Satz wird ganz langsam gesprochen, damit das Modell mich genau erkennt.“
